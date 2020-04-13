@@ -1,0 +1,123 @@
+Date,Flight number,From,To,Dep time,Arr time,Duration,Airline,Aircraft,Registration,Seat number,Seat type,Flight class,Flight reason,Note,Dep_id,Arr_id,Airline_id,Aircraft_id
+15/06/2008,OV231,Tallinn / Ulemiste (TLL/EETN),Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF),00:00:00,00:00:00,03:08:00,Estonian Air (OV/ELL), (),,,1,1,1,,2956,872,263,0
+23/06/2008,OV232,Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,03:08:00,Estonian Air (OV/ELL), (),,,0,1,1,,872,2956,263,0
+07/06/2009,12345,Tallinn / Ulemiste (TLL/EETN),Antalya / Antalya (AYT/LTAI),00:00:00,00:00:00,03:40:00,Estonian Air (OV/ELL), (),,,0,1,1,,2956,207,263,0
+17/06/2009,12345,Antalya / Antalya (AYT/LTAI),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,03:40:00,Estonian Air (OV/ELL), (),,,0,1,1,,207,2956,263,0
+04/06/2010,12345,Tallinn / Ulemiste (TLL/EETN),Antalya / Antalya (AYT/LTAI),00:00:00,00:00:00,03:40:00,Estonian Air (OV/ELL), (),,,0,0,1,,2956,207,263,0
+18/06/2010,12345,Antalya / Antalya (AYT/LTAI),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,03:40:00,Estonian Air (OV/ELL), (),,,0,0,1,,207,2956,263,0
+08/07/2011,12345,Tallinn / Ulemiste (TLL/EETN),Athens / Nikos Kazantzakis (HER/LGIR),00:00:00,00:00:00,03:52:00,Estonian Air (OV/ELL), (),,,0,1,1,,2956,1112,263,0
+22/07/2011,12345,Athens / Nikos Kazantzakis (HER/LGIR),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,03:52:00,Estonian Air (OV/ELL), (),,,0,1,1,,1112,2956,263,0
+24/07/2011,1,Tallinn / Ulemiste (TLL/EETN),Copenhagen / Kastrup (CPH/EKCH),00:00:00,00:00:00,01:23:00,Estonian Air (OV/ELL), (),,,0,1,1,,2956,606,263,0
+24/07/2011,1,Copenhagen / Kastrup (CPH/EKCH),Barcelona / El Prat (BCN/LEBL),00:00:00,00:00:00,02:38:00,Cimber Sterling (QI/CIM), (),,,0,1,1,,606,239,184,0
+31/07/2011,1,Barcelona / El Prat (BCN/LEBL),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,03:42:00,Estonian Air (OV/ELL), (),,,0,1,1,,239,2956,263,0
+01/08/2012,1,Tallinn / Ulemiste (TLL/EETN),Vienna / Schwechat (VIE/LOWW),00:00:00,00:00:00,02:05:00,Estonian Air (OV/ELL), (),,,0,1,1,,2956,3179,263,0
+08/08/2012,1,Vienna / Schwechat (VIE/LOWW),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:05:00,Estonian Air (OV/ELL), (),,,0,1,1,,3179,2956,263,0
+12/08/2012,1,Helsinki / Vantaa (HEL/EFHK),Athens / Athens (JTR/LGSR),00:00:00,00:00:00,03:50:00,Finnair (AY/FIN), (),,,0,1,1,,1110,1366,304,0
+12/08/2012,1,Athens / Athens (JTR/LGSR),Helsinki / Vantaa (HEL/EFHK),00:00:00,00:00:00,03:50:00,Finnair (AY/FIN), (),,,0,1,1,,1366,1110,304,0
+23/07/2013,LH885,Tallinn / Ulemiste (TLL/EETN),Frankfurt / Frankfurt (FRA/EDDF),00:00:00,00:00:00,02:14:00,Lufthansa (LH/DLH), (),,,0,1,1,,2956,919,239,0
+23/08/2013,LH1396,Frankfurt / Frankfurt (FRA/EDDF),Prague / Praha-Ruzyne (PRG/LKPR),00:00:00,00:00:00,00:47:00,Lufthansa (LH/DLH), (),,,0,1,1,,919,2398,239,0
+24/07/2013,LH1397,Prague / Praha-Ruzyne (PRG/LKPR),Frankfurt / Frankfurt (FRA/EDDF),00:00:00,00:00:00,00:47:00,Lufthansa (LH/DLH), (),,,0,1,1,,2398,919,239,0
+24/07/2013,LH884,Frankfurt / Frankfurt (FRA/EDDF),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:14:00,Lufthansa (LH/DLH), (),,,0,1,1,,919,2956,239,0
+07/08/2013,1,Riga / Riga (RIX/EVRA),Frankfurt / Frankfurt (FRA/EDDF),00:00:00,00:00:00,01:58:00,Lufthansa (LH/DLH), (),,,0,1,2,,3623,919,239,0
+07/08/2013,1,Frankfurt / Frankfurt (FRA/EDDF),Sofia / Sofia (SOF/LBSF),00:00:00,00:00:00,02:08:00,Lufthansa (LH/DLH), (),,,0,1,2,,919,2738,239,0
+12/08/2013,1,Frankfurt / Frankfurt (FRA/EDDF),Riga / Riga (RIX/EVRA),00:00:00,00:00:00,01:58:00,Lufthansa (LH/DLH), (),,,0,1,2,,919,3623,239,0
+12/08/2013,1,Sofia / Sofia (SOF/LBSF),Frankfurt / Frankfurt (FRA/EDDF),00:00:00,00:00:00,02:08:00,Lufthansa (LH/DLH), (),,,0,1,2,,2738,919,239,0
+15/08/2013,1,Tallinn / Ulemiste (TLL/EETN),Stockholm / Bromma (BMA/ESSB),00:00:00,00:00:00,00:46:00,Flybe (BE/BEE), (),,,0,1,1,,2956,350,124,0
+16/08/2013,1,Stockholm / Bromma (BMA/ESSB),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,00:46:00,Flybe (BE/BEE), (),,,0,1,1,,350,2956,124,0
+27/11/2013,1,Tallinn / Ulemiste (TLL/EETN),London / Gatwick (LGW/EGKK),00:00:00,00:00:00,02:42:00,Easyjet (U2/EZY),Airbus A319 (A319),,,0,1,0,,2956,1614,291,26
+01/12/2013,1,London / Gatwick (LGW/EGKK),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:42:00,Easyjet (U2/EZY),Airbus A319 (A319),,,0,1,0,,1614,2956,291,26
+13/06/2014,1,Tallinn / Ulemiste (TLL/EETN),Vilnius / Vilnius (VNO/EYVI),00:00:00,00:00:00,00:58:00,SmartLynx Airlines (6Y/ART), (),,,0,1,1,,2956,3600,1416,0
+13/06/2014,1,Vilnius / Vilnius (VNO/EYVI),Tunis / Tunis (NBE/DTNH),00:00:00,00:00:00,03:26:00,SmartLynx Airlines (6Y/ART), (),,,0,1,1,,3600,3851,1416,0
+20/06/2014,1,Tunis / Tunis (NBE/DTNH),Vilnius / Vilnius (VNO/EYVI),00:00:00,00:00:00,03:26:00,SmartLynx Airlines (6Y/ART), (),,,0,1,1,,3851,3600,1416,0
+20/06/2014,1,Vilnius / Vilnius (VNO/EYVI),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,00:58:00,SmartLynx Airlines (6Y/ART), (),,,0,1,1,,3600,2956,1416,0
+20/07/2014,1,Riga / Riga (RIX/EVRA),Istanbul / Ataturk (ISL/LTBA),00:00:00,00:00:00,02:41:00,Turkish Airlines (TK/THY),Boeing 737-800 (B738),,,0,1,2,,3623,1284,769,231
+21/07/2014,1,Istanbul / Ataturk (ISL/LTBA),Sao Paulo / Guarulhos (GRU/SBGR),00:00:00,00:00:00,14:30:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),,,0,1,2,,1284,1043,769,2023
+21/07/2014,1,Sao Paulo / Guarulhos (GRU/SBGR),Buenos Aires / Ministro Pistarini (EZE/SAEZ),00:00:00,00:00:00,02:34:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),,,0,1,2,,1043,3599,769,2023
+26/07/2014,1,Buenos Aires / Ministro Pistarini (EZE/SAEZ),Sao Paulo / Guarulhos (GRU/SBGR),00:00:00,00:00:00,02:34:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),,,0,1,2,,3599,1043,769,2023
+26/07/2014,1,Sao Paulo / Guarulhos (GRU/SBGR),Istanbul / Ataturk (ISL/LTBA),00:00:00,00:00:00,14:30:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),,,0,1,2,,1043,1284,769,2023
+27/07/2014,1,Istanbul / Ataturk (ISL/LTBA),Riga / Riga (RIX/EVRA),00:00:00,00:00:00,02:41:00,Turkish Airlines (TK/THY),Boeing 737-800 (B738),,,0,1,2,,1284,3623,769,231
+24/08/2014,1,Tallinn / Ulemiste (TLL/EETN),Amsterdam / Schiphol (AMS/EHAM),00:00:00,00:00:00,02:14:00,Estonian Air (OV/ELL),Embraer ERJ-145 (E145),,,0,1,2,,2956,122,263,653
+24/08/2014,1,Amsterdam / Schiphol (AMS/EHAM),Sao Paulo / Guarulhos (GRU/SBGR),00:00:00,00:00:00,13:27:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 777-300ER (B77W),,,0,1,2,,122,1043,440,2023
+30/08/2014,1,Sao Paulo / Guarulhos (GRU/SBGR),Amsterdam / Schiphol (AMS/EHAM),00:00:00,00:00:00,13:27:00,KLM Royal Dutch Airlines (KL/KLM),Boeing 777-300ER (B77W),,,0,1,2,,1043,122,440,2023
+30/08/2014,1,Amsterdam / Schiphol (AMS/EHAM),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:14:00,Estonian Air (OV/ELL),Embraer ERJ-145 (E145),,,0,1,2,,122,2956,263,653
+29/09/2014,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),00:00:00,00:00:00,02:36:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,0,1,0,,2956,2785,668,231
+12/12/2014,FR225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:36:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,0,1,0,,2785,2956,668,231
+29/12/2014,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),00:00:00,00:00:00,02:36:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,0,1,0,,2956,2785,668,231
+15/03/2015,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:36:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,0,1,0,,2785,2956,668,231
+30/03/2015,FR2225,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),00:00:00,00:00:00,02:36:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,0,1,2,,2956,2785,668,231
+07/06/2015,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),00:00:00,00:00:00,02:36:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,0,1,0,,2785,2956,668,231
+18/11/2015,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,13:05:00,03:05:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EIDYX,20A,1,1,1,,2956,2785,668,231
+23/11/2015,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),06:45:00,11:35:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EIEBB,33D,3,1,1,,2785,2956,668,231
+23/10/2015,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,13:05:00,03:05:00,Ryanair (FR/RYR),Boeing 737-800 (B738),,,2,1,1,,2956,2785,668,231
+28/10/2015,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),06:45:00,11:35:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EIEFE,,0,1,1,,2785,2956,668,231
+29/08/2015,LH885,Tallinn / Ulemiste (TLL/EETN),Frankfurt / Frankfurt (FRA/EDDF),05:30:00,07:05:00,02:35:00,Lufthansa (LH/DLH),Airbus A320 (A320),,,0,1,2,,2956,919,239,27
+22/08/2015,LH884,Frankfurt / Frankfurt (FRA/EDDF),Tallinn / Ulemiste (TLL/EETN),20:50:00,00:10:00,02:20:00,Lufthansa (LH/DLH),Airbus A320 (A320),,,0,1,2,,919,2956,239,27
+13/01/2016,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,13:05:00,03:05:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EIEBY,21C,3,1,1,,2956,2785,668,231
+01/02/2016,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),06:45:00,11:35:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EIESL,,3,1,1,,2785,2956,668,231
+16/02/2016,AY116,Tallinn / Ulemiste (TLL/EETN),Helsinki / Vantaa (HEL/EFHK),21:30:00,22:05:00,00:35:00,Finnair (AY/FIN),ATR 72-500 (AT75),OHATP,,1,1,2,,2956,1110,304,154
+16/02/2016,AY81,Helsinki / Vantaa (HEL/EFHK),Singapore / Changi (SIN/WSSS),23:55:00,17:30:00,11:35:00,Finnair (AY/FIN),Airbus A340-300 (A343),OHLQA,,1,1,2,,1110,2672,304,34
+17/02/2016,QF36,Singapore / Changi (SIN/WSSS),Melbourne / Tullamarine (MEL/YMML),19:50:00,06:30:00,07:40:00,Qantas Airways (QF/QFA),Airbus A330-300 (A333),VHQPF,,2,1,2,,2672,1795,631,31
+25/03/2016,JQ524,Melbourne / Tullamarine (MEL/YMML),Sydney / Kingsford Smith (SYD/YSSY),19:45:00,21:10:00,01:25:00,Jetstar Airways (JQ/JST),Airbus A321 (A321),VHVWT,,1,1,1,,1795,2834,419,28
+29/03/2016,JQ719,Sydney / Kingsford Smith (SYD/YSSY),Hobart / Hobart (HBA/YMHB),05:00:00,06:55:00,01:55:00,Jetstar Airways (JQ/JST),Airbus A320 (A320),VHVFL,,1,1,1,,2834,1099,419,27
+03/04/2016,JQ714,Hobart / Hobart (HBA/YMHB),Melbourne / Tullamarine (MEL/YMML),21:30:00,22:45:00,01:15:00,Jetstar Airways (JQ/JST),Airbus A321 (A321),VHVWW,,1,1,1,,1099,1795,419,28
+15/06/2016,QF796,Melbourne / Tullamarine (MEL/YMML),Alice Springs / Alice Springs (ASP/YBAS),09:30:00,11:55:00,02:55:00,Qantas Airways (QF/QFA),Boeing 737-800 (B738),VHVXJ,9A,1,1,1,,1795,169,631,231
+20/06/2016,QF797,Alice Springs / Alice Springs (ASP/YBAS),Melbourne / Tullamarine (MEL/YMML),12:35:00,15:40:00,02:35:00,Qantas Airways (QF/QFA),Boeing 737-800 (B738),VHVXO,,2,1,1,,169,1795,631,231
+07/07/2016,TK1422,Tallinn / Ulemiste (TLL/EETN),Istanbul / Ataturk (ISL/LTBA),18:30:00,21:50:00,03:20:00,Turkish Airlines (TK/THY),Boeing 737-800 (B738),TCJVC,,1,1,2,,2956,1284,769,231
+08/07/2016,TK70,Istanbul / Ataturk (ISL/LTBA),Hong Kong / Hong Kong International (HKG/VHHH),02:00:00,17:20:00,10:20:00,Turkish Airlines (TK/THY),Boeing 777-300ER (B77W),TCJJR,,1,1,2,,1284,1135,769,2023
+28/06/2016,AY5022,Melbourne / Tullamarine (MEL/YMML),Hong Kong / Hong Kong International (HKG/VHHH),10:20:00,18:00:00,09:40:00,Qantas Airways (QF/QFA),Airbus A330-300 (A333),,,1,1,2,,1795,1135,631,31
+29/06/2016,AY70,Hong Kong / Hong Kong International (HKG/VHHH),Helsinki / Vantaa (HEL/EFHK),00:25:00,06:00:00,10:35:00,Finnair (AY/FIN),Airbus A350-900 (A359),OHLWA,,3,1,2,,1135,1110,304,2110
+29/06/2016,AY111,Helsinki / Vantaa (HEL/EFHK),Tallinn / Ulemiste (TLL/EETN),07:30:00,08:00:00,00:30:00,Finnair (AY/FIN),ATR 72-500 (AT75),OHATG,,1,1,2,,1110,2956,304,154
+19/07/2016,BL679,Hong Kong / Hong Kong International (HKG/VHHH),Hanoi / Noibai (HAN/VVNB),13:25:00,14:25:00,02:00:00,Pacific Airlines (BL/PIC),Airbus A320 (A320),VNA564,,3,1,1,,1135,1094,610,27
+30/07/2016,TK168,Hanoi / Noibai (HAN/VVNB),Istanbul / Ataturk (ISL/LTBA),21:25:00,04:05:00,10:40:00,Turkish Airlines (TK/THY),Airbus A330-300 (A333),TCJOD,,3,1,2,,1094,1284,769,31
+31/07/2016,TK1421,Istanbul / Ataturk (ISL/LTBA),Tallinn / Ulemiste (TLL/EETN),14:25:00,17:35:00,03:10:00,Turkish Airlines (TK/THY),Boeing 737-700 (B737),TCJKO,,3,1,2,,1284,2956,769,230
+15/08/2016,SK749,Tallinn / Ulemiste (TLL/EETN),Stockholm / Arlanda (ARN/ESSA),10:15:00,10:30:00,01:15:00,Scandinavian Airlines (SK/SAS),ATR 72-500 (AT75),OYJZU,,1,1,2,,2956,3622,677,154
+15/08/2016,SK903,Stockholm / Arlanda (ARN/ESSA),Newark / Liberty International (EWR/KEWR),12:25:00,14:55:00,08:30:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),LNRKU,,2,1,2,,3622,851,677,31
+15/08/2016,AA1598,Newark / Liberty International (EWR/KEWR),Charlotte / Douglas (CLT/KCLT),17:20:00,19:20:00,02:00:00,American Airlines (AA/AAL),Boeing 737-800 (B738),N834NN,,3,1,2,,851,575,4,231
+15/08/2016,AA1598,Charlotte / Douglas (CLT/KCLT),Miami / Miami International (MIA/KMIA),20:15:00,22:21:00,02:06:00,American Airlines (AA/AAL),Boeing 737-800 (B738),N834NN,,3,1,2,,575,1831,4,231
+19/08/2016,DL1829,Miami / Miami International (MIA/KMIA),Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),11:35:00,14:50:00,03:15:00,Delta Air Lines (DL/DAL),McDonnell Douglas MD-88 (MD88),N904DE,,3,1,2,,1831,756,223,1189
+17/12/2016,AA3491,Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),Chicago / O'Hare (ORD/KORD),12:12:00,12:40:00,01:28:00,American Airlines (AA/AAL),Bombardier CRJ-700 (CRJ7),N504AE,,1,1,1,,756,2205,4,530
+17/12/2016,SK946,Chicago / O'Hare (ORD/KORD),Stockholm / Arlanda (ARN/ESSA),19:45:00,11:10:00,08:25:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),LNRKS,,2,1,1,,2205,3622,677,31
+18/12/2016,SK1744,Stockholm / Arlanda (ARN/ESSA),Tallinn / Ulemiste (TLL/EETN),15:00:00,17:10:00,01:10:00,Scandinavian Airlines (SK/SAS),ATR 72-200 (AT72),OYJZE,,1,1,1,,3622,2956,677,153
+02/01/2017,SK749,Tallinn / Ulemiste (TLL/EETN),Stockholm / Arlanda (ARN/ESSA),10:55:00,11:10:00,01:15:00,Scandinavian Airlines (SK/SAS),ATR 72-200 (AT72),,,1,1,1,,2956,3622,677,153
+02/01/2017,SK945,Stockholm / Arlanda (ARN/ESSA),Chicago / O'Hare (ORD/KORD),16:35:00,18:35:00,09:00:00,Scandinavian Airlines (SK/SAS),Airbus A330-300 (A333),,,2,1,1,,3622,2205,677,31
+02/01/2017,AA3547,Chicago / O'Hare (ORD/KORD),Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),21:41:00,23:55:00,01:14:00,American Airlines (AA/AAL),Bombardier CRJ-700 (CRJ7),,,1,1,1,,2205,756,4,530
+28/02/2017,DL4563,Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),Newark / Liberty International (EWR/KEWR),10:10:00,12:10:00,02:00:00,Delta Air Lines (DL/DAL),Bombardier CRJ-700 (CRJ7),,,1,1,1,,756,851,223,530
+05/03/2017,DL6304,Newark / Liberty International (EWR/KEWR),Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),18:50:00,21:03:00,02:13:00,Delta Air Lines (DL/DAL),Bombardier CRJ-700 (CRJ7),,,1,1,1,,851,756,223,530
+04/05/2017,DL1948,Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),Philadelphia / Philadelphia (PHL/KPHL),10:21:00,11:55:00,01:34:00,Delta Air Lines (DL/DAL),Boeing 717-200 (B712),N969AT,,1,1,2,,756,2311,223,220
+07/05/2017,DL1948,Philadelphia / Philadelphia (PHL/KPHL),Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),12:50:00,14:30:00,01:40:00,Delta Air Lines (DL/DAL),Boeing 717-200 (B712),N967AT,,1,1,2,,2311,756,223,220
+23/05/2017,NK110,Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),Boston / Logan (BOS/KBOS),07:40:00,09:34:00,01:54:00,Spirit Airlines (NK/NKS),Airbus A319 (A319),N516NK,,1,1,1,,756,380,565,26
+27/05/2017,NK109,Boston / Logan (BOS/KBOS),Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),20:59:00,23:03:00,02:04:00,Spirit Airlines (NK/NKS),Airbus A319 (A319),N531NK,,1,1,1,,380,756,565,26
+25/06/2017,UA4502,Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),Chicago / O'Hare (ORD/KORD),16:45:00,17:08:00,01:23:00,United Airlines (UA/UAL),Bombardier CRJ-700 (CRJ7),N162GJ,,1,1,2,,756,2205,808,530
+25/06/2017,LO4,Chicago / O'Hare (ORD/KORD),Warsaw / Chopin (Okecie) (WAW/EPWA),21:25:00,13:30:00,09:05:00,LOT (LO/LOT),Boeing 787-8 (B788),SPLRC,,1,1,2,,2205,3142,483,2087
+26/06/2017,LO787,Warsaw / Chopin (Okecie) (WAW/EPWA),Tallinn / Ulemiste (TLL/EETN),14:40:00,17:15:00,01:35:00,LOT (LO/LOT),Bombardier CRJ-900 (CRJ9),ESACI,,3,1,2,,3142,2956,483,531
+19/07/2017,BT461,Riga / Riga (RIX/EVRA),Warsaw / Chopin (Okecie) (WAW/EPWA),07:50:00,08:15:00,01:25:00,AirBaltic (BT/BTI),Bombardier Dash 8-400 (DH8D),YLBAJ,,1,1,1,,3623,3142,154,610
+22/07/2017,BT317,Riga / Riga (RIX/EVRA),Tallinn / Ulemiste (TLL/EETN),18:50:00,19:40:00,00:50:00,AirBaltic (BT/BTI),Bombardier Dash 8-400 (DH8D),YLBAQ,,3,1,1,,3623,2956,154,610
+22/07/2017,BT468,Warsaw / Chopin (Okecie) (WAW/EPWA),Riga / Riga (RIX/EVRA),15:00:00,17:25:00,01:25:00,AirBaltic (BT/BTI),Bombardier Dash 8-400 (DH8D),YLBAQ,,3,1,1,,3142,3623,154,610
+19/07/2017,BT362,Tallinn / Ulemiste (TLL/EETN),Riga / Riga (RIX/EVRA),06:00:00,06:45:00,00:45:00,AirBaltic (BT/BTI),Boeing 737-300 (B733),YLBBY,,1,1,1,,2956,3623,154,226
+22/09/2017,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,12:55:00,02:55:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-DCI,,2,1,2,,2956,2785,668,231
+04/01/2018,FR2275,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),07:25:00,12:15:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-FIN,,1,1,1,,2785,2956,668,231
+15/01/2018,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,12:50:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-DWZ,,2,1,1,,2956,2785,668,231
+20/02/2018,FR2642,London / Stansted (STN/EGSS),Riga / Riga (RIX/EVRA),06:20:00,10:55:00,02:35:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-DHS,,2,1,1,,2785,3623,668,231
+21/02/2018,FR2643,Riga / Riga (RIX/EVRA),London / Stansted (STN/EGSS),11:20:00,12:15:00,02:55:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-FTW,,2,1,1,,3623,2785,668,231
+21/03/2018,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),06:45:00,11:35:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-EFO,,2,1,1,,2785,2956,668,231
+28/03/2018,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,12:55:00,02:55:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-ENB,,2,1,1,,2956,2785,668,231
+02/09/2018,QF10,London / Heathrow (LHR/EGLL),Perth / Perth (PER/YPPH),13:15:00,13:00:00,16:45:00,Qantas Airways (QF/QFA),Boeing 787-9 (B789),,,3,1,1,,1618,2295,631,2088
+06/09/2018,QF580,Perth / Perth (PER/YPPH),Sydney / Kingsford Smith (SYD/YSSY),12:30:00,18:35:00,04:05:00,Qantas Airways (QF/QFA),Airbus A330-200 (A332),VH-EBR,,1,1,1,,2295,2834,631,30
+14/09/2018,QF411,Sydney / Kingsford Smith (SYD/YSSY),Melbourne / Tullamarine (MEL/YMML),07:30:00,09:05:00,01:35:00,Qantas Airways (QF/QFA),Airbus A330-200 (A332),VH-EBA,,1,1,1,,2834,1795,631,30
+23/09/2018,QF481,Melbourne / Tullamarine (MEL/YMML),Perth / Perth (PER/YPPH),19:10:00,21:20:00,04:10:00,Qantas Airways (QF/QFA),Airbus A330-300 (A333),VH-QPB,,3,1,1,,1795,2295,631,31
+26/09/2018,QF9,Perth / Perth (PER/YPPH),London / Heathrow (LHR/EGLL),18:45:00,05:05:00,17:20:00,Qantas Airways (QF/QFA),Boeing 787-9 (B789),VH-ZNB,,3,1,1,,2295,1618,631,2088
+03/10/2018,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),06:45:00,11:25:00,02:40:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-GDA,,2,1,1,,2785,2956,668,231
+07/10/2018,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,12:55:00,02:55:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-FRE,,1,1,1,,2956,2785,668,231
+21/12/2018,FR2434,London / Stansted (STN/EGSS),Krakow / John Paul II International (KRK/EPKK),16:05:00,19:25:00,02:20:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-DCN,,1,1,1,,2785,1489,668,231
+25/12/2018,LO3924,Krakow / John Paul II International (KRK/EPKK),Warsaw / Chopin (Okecie) (WAW/EPWA),18:05:00,18:55:00,00:50:00,LOT (LO/LOT),Bombardier Dash 8-400 (DH8D),SP-EQE,,1,1,1,,1489,3142,483,610
+25/12/2018,LO285,Warsaw / Chopin (Okecie) (WAW/EPWA),London / Heathrow (LHR/EGLL),20:05:00,21:50:00,02:45:00,LOT (LO/LOT),Boeing 737 MAX 8 (B38M),SP-LVB,,1,1,1,,3142,1618,483,2123
+10/03/2019,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),06:45:00,11:35:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-DLB,,2,1,1,,2785,2956,668,231
+27/03/2019,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),12:00:00,12:50:00,02:50:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-FZL,,3,1,1,,2956,2785,668,231
+02/06/2019,FR2225,London / Stansted (STN/EGSS),Tallinn / Ulemiste (TLL/EETN),05:55:00,10:35:00,02:40:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-EMJ,,3,1,1,,2785,2956,668,231
+03/07/2019,FR2224,Tallinn / Ulemiste (TLL/EETN),London / Stansted (STN/EGSS),11:35:00,12:30:00,02:55:00,Ryanair (FR/RYR),Boeing 737-800 (B738),EI-DYY,24C,3,1,1,,2956,2785,668,231
+09/07/2019,BT650,London / Gatwick (LGW/EGKK),Tallinn / Ulemiste (TLL/EETN),17:45:00,22:30:00,02:45:00,AirBaltic (BT/BTI),Bombardier CS300 (BCS3),YL-AAR,,3,1,1,,1614,2956,154,2113
+31/08/2019,BT362,Tallinn / Ulemiste (TLL/EETN),Riga / Riga (RIX/EVRA),05:45:00,06:35:00,00:50:00,AirBaltic (BT/BTI),Bombardier CS300 (BCS3),YL-CSN,,1,1,2,,2956,3623,154,2113
+31/08/2019,BT211,Riga / Riga (RIX/EVRA),Berlin / Tegel (TXL/EDDT),07:35:00,08:10:00,01:35:00,AirBaltic (BT/BTI),Bombardier CS300 (BCS3),YL-CSB,,1,1,2,,3623,3055,154,2113
+01/09/2019,BT202,Berlin / Tegel (TXL/EDDT),Tallinn / Ulemiste (TLL/EETN),15:05:00,17:55:00,01:50:00,AirBaltic (BT/BTI),Bombardier CS300 (BCS3),YL-CSL,,1,1,2,,3055,2956,154,2113
+12/11/2019,LO788,Tallinn / Ulemiste (TLL/EETN),Warsaw / Chopin (Okecie) (WAW/EPWA),18:00:00,18:35:00,01:35:00,LOT (LO/LOT),Embraer ERJ-190 (E190),,,0,1,2,,2956,3142,483,655
+14/11/2019,LO789,Warsaw / Chopin (Okecie) (WAW/EPWA),Tallinn / Ulemiste (TLL/EETN),21:00:00,23:40:00,01:40:00,LOT (LO/LOT),Embraer ERJ-190 (E190),,,0,1,2,,3142,2956,483,655
